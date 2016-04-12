@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Face to Face with Jesus]]></title>
         <description><![CDATA[Face to Face with Jesus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/face-to-face-with-jesus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 04:15:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 04:15:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/face-to-face-with-jesus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91c6224d-98e2-42b3-946f-a462c5e10945.jpg">]]></description>
+            <link>https://thegrid.ai/face-to-face-with-jesus/d399b4fd-f694-42f3-8701-cae762f6fe9c/index.html</link>
+            <guid isPermaLink="false">d399b4fd-f694-42f3-8701-cae762f6fe9c</guid>
+            <pubDate>Tue, 12 Apr 2016 04:15:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>It's essential you understand the differences between the old covenant of law and the new covenant of grace. Here's one of my favorite Scriptures:
 "For the law was given through Moses, but grace and truth came through Jesus Christ."
 —John 1:17 </p>]]></description>
-            <link>undefinedits-essential-you-understand-the-differences-between-the-ol/index.html</link>
+            <link>https://thegrid.ai/face-to-face-with-jesus/its-essential-you-understand-the-differences-between-the-ol/index.html</link>
             <guid isPermaLink="false">28ade905-f5ce-49a6-b601-bb85ff879174</guid>
             <pubDate>Tue, 12 Apr 2016 04:15:09 GMT</pubDate>
         </item>
