@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Face to Face with Jesus]]></title>
+        <description><![CDATA[Face to Face with Jesus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 04:15:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It's essential you understand the differences between the old covenant of law and the new covenant of grace. Here's one of my favorite Scriptures:
+"For the law was given through Moses, but grace and truth came through Jesus Christ."
+—John 1:17 </p>]]></description>
+            <link>undefinedits-essential-you-understand-the-differences-between-the-ol/index.html</link>
+            <guid isPermaLink="false">28ade905-f5ce-49a6-b601-bb85ff879174</guid>
+            <pubDate>Tue, 12 Apr 2016 04:15:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
